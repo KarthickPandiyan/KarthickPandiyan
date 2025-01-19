@@ -1,4 +1,4 @@
-# Hi, I'm Karthick Pandiyan! 
+# Hi,
 
 # Welcome to my github home!👋 
 
